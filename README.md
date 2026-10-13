@@ -173,4 +173,4 @@ Full results: [07_product_insights.csv](results/07_product_insights.csv)
 ---
 
 **Author:** Syeda Urwa Batool Abdi · MSc Marketing & Digital Analytics,
-[LinkedIn](www.linkedin.com/in/syedaurwabatool) · [Email](s.urwabatoolabdi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/syedaurwabatool) · [Email](mailto:s.urwabatoolabdi@gmail.com)
