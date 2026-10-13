@@ -1,0 +1,7 @@
+channel,users,product_viewers,buyers,conversion_rate_pct,orders,revenue_usd,avg_order_value_usd,pct_of_total_revenue
+Organic Search,101742,22689,1557,1.53,1613,107231.0,66.48,34.8
+Direct,64109,14491,1011,1.58,1017,71767.0,70.57,23.3
+Unknown,50001,11511,889,1.78,903,64201.0,71.1,20.8
+Referral,25257,5759,414,1.64,392,26683.0,68.07,8.7
+Internal (self-referral),14763,3684,330,2.24,321,22764.0,70.92,7.4
+Paid Search,14282,3118,218,1.53,205,15554.0,75.87,5.0

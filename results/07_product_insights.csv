@@ -1,0 +1,21 @@
+list,list_rank,item_name,category,viewers,cart_adders,orders,units_sold,revenue_usd,view_to_cart_pct,orders_per_100_viewers
+A. Top revenue,1,Google Zip Hoodie F/C,Home/Apparel/Men's / Unisex/,13869,3539,187,208,10488.0,25.5,1.3
+A. Top revenue,2,Google Crewneck Sweatshirt Navy,Home/Apparel/Women's/,8754,2781,196,217,9878.0,31.8,2.2
+A. Top revenue,3,Google Badge Heavyweight Pullover Black,Home/Apparel/Women's/,9080,2584,149,175,8444.0,28.5,1.6
+A. Top revenue,4,Google Men's Tech Fleece Grey,Home/Apparel/Men's / Unisex/,4571,1488,87,107,7886.0,32.6,1.9
+A. Top revenue,5,Super G Unisex Joggers,Apparel,14713,3471,220,252,7826.0,23.6,1.5
+A. Top revenue,6,Google Crewneck Sweatshirt Green,Home/Apparel/Women's/,7731,2450,146,155,7095.0,31.7,1.9
+A. Top revenue,7,Google Men's Tech Fleece Vest Charcoal,Home/Apparel/Men's / Unisex/,1707,365,62,79,5234.0,21.4,3.6
+A. Top revenue,8,Google Men's Puff Jacket Black,Home/Apparel/Men's / Unisex/,3773,756,52,55,5221.0,20.0,1.4
+A. Top revenue,9,Google Sherpa Zip Hoodie Charcoal,Home/Apparel/Men's / Unisex/,9415,2009,78,89,4953.0,21.3,0.8
+A. Top revenue,10,Google Canteen Bottle Black,Lifestyle/,2421,607,128,248,4892.0,25.1,5.3
+B. Popular but rarely bought,1,Google Women's Eco Tee Black,Home/Apparel/Women's/,2291,589,1,2,35.0,25.7,0.0
+B. Popular but rarely bought,2,YouTube Women's Favorite Tee White,Home/Sale/,6885,1989,5,5,47.0,28.9,0.1
+B. Popular but rarely bought,3,Google Land & Sea Women's Eco Tee,Women's,6232,1235,6,6,120.0,19.8,0.1
+B. Popular but rarely bought,4,YouTube Small Sticker Sheet,Home/Stationery/Stickers/,5806,1128,6,44,112.0,19.4,0.1
+B. Popular but rarely bought,5,Google Bottle Cleaner,Lifestyle/Drinkware/,3905,1144,3,4,32.0,29.3,0.1
+B. Popular but rarely bought,6,Google Jotter Task Pad,Home/Eco-Friendly/,3839,852,5,27,80.0,22.2,0.1
+B. Popular but rarely bought,7,Google Land & Sea French Terry Sweatshirt,Home/Eco-Friendly/,10201,1904,25,25,1144.0,18.7,0.2
+B. Popular but rarely bought,8,Android Small Trace Journal Black,Home/Shop by Brand/Android/,7510,2154,13,25,135.0,28.7,0.2
+B. Popular but rarely bought,9,Google Tee Green,Home/Sale/,6928,1984,16,16,146.0,28.6,0.2
+B. Popular but rarely bought,10,Google Laptop Sleeve Charcoal,Lifestyle/Bags/,6861,1425,11,12,204.0,20.8,0.2

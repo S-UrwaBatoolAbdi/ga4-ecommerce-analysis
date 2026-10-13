@@ -1,0 +1,7 @@
+step_order,step,users,pct_of_viewers,pct_from_previous_step
+1,view_item,61252,100.0,
+2,add_to_cart,12545,20.5,20.5
+3,begin_checkout,9715,15.9,77.4
+4,add_shipping_info,9714,15.9,100.0
+5,add_payment_info,5751,9.4,59.2
+6,purchase,4419,7.2,76.8
